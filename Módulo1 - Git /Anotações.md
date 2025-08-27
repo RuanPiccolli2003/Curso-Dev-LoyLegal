@@ -1,4 +1,4 @@
-## O que são softwares de controle de versão ?
+## 1 - O que são softwares de controle de versão ?
 
 <p>
 São sistemas que tem como intuito, realizar o monitoramento, e o controle
@@ -8,7 +8,7 @@ existem varios softwares com esta finalidade, como:
 git, o Subversion, CVS, TFS, Mercurial, entre outros.
 </p>
 
-### O que é o git ?
+### 1.1 - O que é o git ?
 
 <p>
 É um software de controle de versão. é utilizado para controlar e monitorar
@@ -17,12 +17,12 @@ neste quesito. É um software de versão distribuido
 (DVCS).
 </p>
 
-## Versionamento Distribuido x Centralizado
+## 2 - Versionamento Distribuido x Centralizado
 
 <p>Os softwares de versionamento podem ser separados em duas categorias: Distribuido <strong>(DVCS)</strong> e Centralizado. </p>
 
 
-### Centralizado
+### 2.1 - Centralizado
 <p>
 Em um sistema centralizado, o principal 
 objeto de controle, esta disponivel apenas em um servidor central. 
@@ -32,7 +32,7 @@ no servidor, após as alterações serem feitas, o código é reenviado para
 o servidor.
 </p>
 
-### Distribuido
+### 2.2 - Distribuido
 <p>
 Apesar de possuir o mesmo objetivo dos sistemas centralizados
 a dinamica de um sistema Distribuido é significativamente oposta.
@@ -42,12 +42,12 @@ um repositorio pŕoprio, esse repositorio contém todas as ramificações
 e todo o histórico do código.
 </p>
 
-## Trabalhando com o git
+## 3 - Trabalhando com o git
 
 <p>Para entendermos como o git atua, vamos ver alguns conceitos chave, entre
 eles: commits, branchs, merge e repositorios remotos.</p>
 
-### Commit
+### 3.1 - Commit
 
 <p>O commit é o comando em que, adiciona as alterações mais recentes ao código.
 Em cada commit, pode-se adicionar um comentário com detalhes sobre o commit
@@ -56,7 +56,7 @@ realizado, para manter o controle entendivel e organizado.
 </p>
 
 
-### Branch (Ramificação)
+### 3.2 - Branch (Ramificação)
 <p>
 É a forma de separar alterações do repositorio principal,
 o codigo raiz, por padrão esta na master, quando criada uma branch
@@ -64,7 +64,7 @@ o codigo raiz, por padrão esta na master, quando criada uma branch
 trabalha-se no código em linhas diferentes.
 </p>
 
-### Merge
+### 3.3 - Merge
 
 <p>
 Quando utilizamos com as Branchs, cada desenvolvedor está
@@ -74,7 +74,7 @@ Merge. O merge realiza a junção da branch paralela em que
 o desenvolvedor esta trabalhando com a branch (master).
 </p>
 
-### Repositórios Remotos
+### 3.4 - Repositórios Remotos
 
 Repositorios Remotos são versões do seu repositório da maquina local
 em um servidor. É crucial para o desenvolvimento em equipe, pois
@@ -82,87 +82,87 @@ cada desenvolvedor deverá ter acesso a este repositorio para a
 colaboração.
 
 
-## Primeiros Passos (Trabalhando sozinho)
+## 4 - Primeiros Passos 
 
-### Comandos
+### 4.1 Comandos (Trabalhando Sozinho)
 
-#### git init
+#### 4.1.1 - git init
 <p>Inicia a rastreabilidade e o controle do código.</p>
 
-#### git clone
+#### 4.1.2 - git clone
 <p>Faz um cópia de qualquer repositorio existente para a sua maquina local.</p>
 
-#### git add
+#### 4.1.3 - git add
 <p>Adiciona as mudanças realizadads para a area de "Staging"</p>
 
-#### git commit
+#### 4.1.4 - git commit
 <p>Salva as alterações realizadas</p>
 
-#### git log
+#### 4.1.5 - git log
 <p>Histórico de mudanças realizadas</p>
 
 
-## Trabalho em Equipe
+## 5 - Trabalho em Equipe
 
-### Comandos
+### 5.1 - Comandos (Em equipe)
 
-#### git branch
+#### 5.1.1 - git branch
 <p>Cria ou lista as branhes existentes></p>
 
-#### git checkout / git switch
+#### 5.1.2 - git checkout / git switch
 <p>Realiza a troca para outra branch</p>
 
-#### git merge
+#### 5.1.3 - git merge
 <p>faz a união das branches</p>
 
-#### git pull
+#### 5.1.4 - git pull
 <p>traz as atualizações do repositorio remoto</p>
 
-#### git push
+#### 5.1.5 - git push
 <p>Envia as alterações para o repositório remoto</p>
 
-#### git remote
+#### 5.1.6 - git remote
 <p>Gerencia as conexões</p>
 
-## Boas praticas
+## 6 - Boas praticas
 
-### Arquivos
+### 6.1 - Arquivos
 
-#### .gitignore
+#### 6.1.1 .gitignore
 <p>Ignora arquivos não relevantes para o repositório</p>
 
-### Comandos
+### 6.2 - Comandos (Boas praticas)
 
-#### git diff
+#### 6.2.1 - git diff
 <p>visualiza as diferenças entre os estados dos arquivos
 antes de realizar o commit</p>
 
-#### git stash
+#### 6.2.2 - git stash
 <p>Guarda as alterações de forma temporaria</p>
 
-#### git reset
+#### 6.2.3 - git reset
 <p> Desfaz as alterações realizadas no repositório local </p>
 
-#### git revert
+#### 6.2.4 - git revert
 <p>Mesma função do reset, porém com este comando o histórico é mantido</p>
 
-### git cherry-pick
+#### 6.2.5 - git cherry-pick
 <p>realiza o commit de forma espeficia</p>
 
-## Casos mais Avançados
+## 7 - Casos mais Avançados
 
-### Comandos
+### 7.1 - Comandos (Avançados)
 
-#### git cherry-pick
+#### 7.1.1 - git cherry-pick
 <p>Realiza o commit de uma forma especifica</p>
 
-#### git apply
+#### 7.1.2 - git apply
 <p>Aplica o patch</p>
 
-#### git rebase
+#### 7.1.3 - git rebase
 <p>Reescreve o histórico</p>
 
-#### git tag
+#### 7.1.4 - git tag
 <p>Marca versões importantes</p>
 
 
