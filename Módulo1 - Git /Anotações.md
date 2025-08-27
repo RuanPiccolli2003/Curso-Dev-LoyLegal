@@ -1,9 +1,12 @@
-## softwares de controle de versão
+## o softwares de controle de versão
+
+
+
 
 <p>
-Tem o intuito de realizar o monitoramento, o controle
-e o estado atual de versões de um código, facilitando
-e deixando o desenvolvimento de certo modo mais organizado
+são sistemas que Tem como intuito, realizar o monitoramento, e o controle
+do estado atual de versões de um código, facilitando
+e deixando o desenvolvimento de certo modo mais organizado.
 existem varios softwares com esta finalidade, como:
 git, o Subversion, CVS, TFS, Mercurial, entre outros.
 </p>
@@ -12,7 +15,8 @@ git, o Subversion, CVS, TFS, Mercurial, entre outros.
 
 <p>
 É um software de controle de versão. é utilizado para controlar e monitorar
-as versões e as alterações de determinado código. É um software de versão distribuido
+as versões e as alterações de determinado código, sendo o mais famoso 
+neste quesito. É um software de versão distribuido
 (DVCS).
 </p>
 
