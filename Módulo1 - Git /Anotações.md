@@ -59,8 +59,8 @@ realizado, para manter o controle entendivel e organizado.
 ### 3.2 - Branch (Ramificação)
 <p>
 É a forma de separar alterações do repositorio principal,
-o codigo raiz, por padrão esta na master, quando criada uma branch
-é aberta uma ramificação em paralelo com a master, desta forma
+o codigo raiz, por padrão esta na main, quando criada uma branch
+é aberta uma ramificação em paralelo com a main, desta forma
 trabalha-se no código em linhas diferentes.
 </p>
 
@@ -71,7 +71,7 @@ Quando utilizamos com as Branchs, cada desenvolvedor está
 trabalhando em alterações de um mesmo código. Agora, caso
 a alteração seja de fato implementada, deve-se realizar o 
 Merge. O merge realiza a junção da branch paralela em que 
-o desenvolvedor esta trabalhando com a branch (master).
+o desenvolvedor esta trabalhando com a branch (main).
 </p>
 
 ### 3.4 - Repositórios Remotos
