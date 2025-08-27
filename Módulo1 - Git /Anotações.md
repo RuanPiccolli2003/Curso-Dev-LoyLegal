@@ -1,7 +1,7 @@
 ## O que são softwares de controle de versão ?
 
 <p>
-são sistemas que Tem como intuito, realizar o monitoramento, e o controle
+São sistemas que tem como intuito, realizar o monitoramento, e o controle
 do estado atual de versões de um código, facilitando
 e deixando o desenvolvimento de certo modo mais organizado.
 existem varios softwares com esta finalidade, como:
@@ -49,7 +49,11 @@ eles: commits, branchs, merge e repositorios remotos.</p>
 
 ### Commit
 
-<p>O commit é o comando em que, adiciona as alterações mais recentes ao código.</p>
+<p>O commit é o comando em que, adiciona as alterações mais recentes ao código.
+Em cada commit, pode-se adicionar um comentário com detalhes sobre o commit
+e quais alterações foram realizadas. É de extrema importancia comentar cada commit
+realizado, para manter o controle entendivel e organizado.
+</p>
 
 
 ### Branch (Ramificação)
@@ -62,11 +66,37 @@ trabalha-se no código em linhas diferentes.
 
 ### Merge
 
+<p>
 Quando utilizamos com as Branchs, cada desenvolvedor está
 trabalhando em alterações de um mesmo código. Agora, caso
-a alteração será de fato implementada, deve-se realizar o 
+a alteração seja de fato implementada, deve-se realizar o 
 Merge. O merge realiza a junção da branch paralela em que 
 o desenvolvedor esta trabalhando com a branch (master).
+</p>
+
+### Repositórios Remotos
+
+Repositorios Remotos são versões do seu repositório da maquina local
+em um servidor. É crucial para o desenvolvimento em equipe, pois
+cada desenvolvedor deverá ter acesso a este repositorio para a 
+colaboração.
+
+
+## Primeiros Passos (Trabalhando sozinho)
+
+### Comandos
+
+#### git init
+<p>Inicia a rastreabilidade e o controle do código.</p>
+
+#### git clone
+<p>Faz um cópia de qualquer repositorio para a sua maquina local.</p>
+
+
+
+
+
+
 
 
 
