@@ -1,7 +1,7 @@
 ## softwares de controle de versão
 
 <p>
-tem o intuito de realizar o monitoramento, o controle
+Tem o intuito de realizar o monitoramento, o controle
 e o estado atual de versões de um código, facilitando
 e deixando o desenvolvimento de certo modo mais organizado
 existem varios softwares com esta finalidade, como:
@@ -17,6 +17,31 @@ as versões e as alterações de determinado código. É um software de versão 
 </p>
 
 ## Versionamento Distribuido x Centralizado
+
+Os softwares de versionamento podem ser separados em duas categorias:
+distribuido <strong>(DVCS)</strong> e centralizado. 
+
+
+### Centralizado
+
+Em um sistema centralizado, o principal 
+objeto de controle, esta disponivel apenas em um servidor central. 
+Para cada alteração que cada Desenvolvedor necessite realizar, primeiro
+devem fazer o Dowload da versão mais recente do codigo, que esta centralizado
+no servidor, após as alterações serem feitas, o código é reenviado para 
+o servidor.
+
+
+### Distribuido
+
+Apesar de possuir o mesmo objetivo dos sistemas centralizados
+a dinamica de um sistema Distribuido é significativamente oposta.
+Em vez de possuir apenas uma servidor que disponibiliza o objeto
+de controle, os Desenvolvedores possuem em seus respectivos computadores
+um repositorio pŕoprio, esse repositorio contém todas as ramificações
+e todo o histórico do código.
+
+
 
 
 
