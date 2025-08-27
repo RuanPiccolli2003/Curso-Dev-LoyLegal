@@ -8,7 +8,7 @@ existem varios softwares com esta finalidade, como:
 git, o Subversion, CVS, TFS, Mercurial, entre outros.
 </p>
 
-## O que é o git ?
+### O que é o git ?
 
 <p>
 É um software de controle de versão. é utilizado para controlar e monitorar
@@ -44,7 +44,7 @@ e todo o histórico do código.
 
 ## Trabalhando com o git
 
-<p>Para entendermos como o git atua, temos que enteder alguns conceitos chave, entre
+<p>Para entendermos como o git atua, vamos ver alguns conceitos chave, entre
 eles: commits, branchs, merge e repositorios remotos.</p>
 
 ### Commit
