@@ -86,14 +86,20 @@ colaboração.
 
 ### Comandos
 
-#### git init
+#### Git init
 <p>Inicia a rastreabilidade e o controle do código.</p>
 
-#### git clone
-<p>Faz um cópia de qualquer repositorio para a sua maquina local.</p>
+#### Git clone
+<p>Faz um cópia de qualquer repositorio existente para a sua maquina local.</p>
 
+#### Git add
+<p>Adiciona as mudanças realizadads para a area de "Staging"</p>
 
+#### Git commit
+<p>Salva as alterações realizadas</p>
 
+#### Git log
+<p>Histórico de mudanças realizadas</p>
 
 
 
