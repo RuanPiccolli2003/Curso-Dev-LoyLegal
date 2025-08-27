@@ -86,24 +86,84 @@ colaboração.
 
 ### Comandos
 
-#### Git init
+#### git init
 <p>Inicia a rastreabilidade e o controle do código.</p>
 
-#### Git clone
+#### git clone
 <p>Faz um cópia de qualquer repositorio existente para a sua maquina local.</p>
 
-#### Git add
+#### git add
 <p>Adiciona as mudanças realizadads para a area de "Staging"</p>
 
-#### Git commit
+#### git commit
 <p>Salva as alterações realizadas</p>
 
-#### Git log
+#### git log
 <p>Histórico de mudanças realizadas</p>
 
 
+## Trabalho em Equipe
 
+### Comandos
 
+#### git branch
+<p>Cria ou lista as branhes existentes></p>
+
+#### git checkout / git switch
+<p>Realiza a troca para outra branch</p>
+
+#### git merge
+<p>faz a união das branches</p>
+
+#### git pull
+<p>traz as atualizações do repositorio remoto</p>
+
+#### git push
+<p>Envia as alterações para o repositório remoto</p>
+
+#### git remote
+<p>Gerencia as conexões</p>
+
+## Boas praticas
+
+### Arquivos
+
+#### .gitignore
+<p>Ignora arquivos não relevantes para o repositório</p>
+
+### Comandos
+
+#### git diff
+<p>visualiza as diferenças entre os estados dos arquivos
+antes de realizar o commit</p>
+
+#### git stash
+<p>Guarda as alterações de forma temporaria</p>
+
+#### git reset
+<p> Desfaz as alterações realizadas no repositório local </p>
+
+#### git revert
+<p>Mesma função do reset, porém com este comando o histórico é mantido</p>
+
+### git cherry-pick
+<p>realiza o commit de forma espeficia</p>
+
+## Casos mais Avançados
+
+### Comandos
+
+#### git cherry-pick
+<p>Realiza o commit de uma forma especifica</p>
+
+#### git apply
+<p>Aplica o patch</p>
+
+#### git rebase
+<p>Reescreve o histórico</p>
+
+#### git tag
+<p>Marca versões importantes</p>
 
 
 
