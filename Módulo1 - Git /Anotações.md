@@ -90,7 +90,6 @@ Merge. O merge realiza a junção da branch paralela em que
 o desenvolvedor esta trabalhando com a branch (main).
 </p>
 <br>
-<br>
 <div align="center">
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/842f2aca-37f6-4dcf-bfd5-bb2b4cbfb6e3" />
 <strong>Figura 3.2</strong> - Na ilustração, um exemplo de como é executado o merge. Há primeiro o commit inicial na main, 
