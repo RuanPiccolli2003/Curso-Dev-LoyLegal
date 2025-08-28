@@ -70,7 +70,7 @@ realizado, para manter o controle entendivel e organizado.
 o objeto de monitoramento ainda esta no chamado "Working Directory", para adicionar a mudança, é executado o comando "$ git add", o qual
 está preparando a mudança e a mesma agora encontra-se no estagio de "Stage" onde o objeto vai ser preparado para o commit. Com a alteração 
 em staging, pode-se realizar o commit do objeto, salvando as alterações. Assim que é feito o commit, o objeto é transferido para o repositório
-Local, onde será realizado o push, enviando a alteração para o repositorio remoto e mudando o projeto.
+Local, onde será realizado o push, enviando a alteração para o repositorio remoto e mudando o projeto. fonte da imagem: https://www.dsebastien.net/2020-05-19-git-concepts-for-newcomers-part-2-git-repository-working-tree-and-staging-area/
 </figcaption>
 </div>
 
