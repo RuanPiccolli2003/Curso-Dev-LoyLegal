@@ -18,7 +18,7 @@ neste quesito. É um software de versão distribuido
 </p>
 
 <div align="center">
-<img width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/1890df14-f6ae-4ba1-a8ed-84a91c05c9c8" />
+<img align="left" width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/1890df14-f6ae-4ba1-a8ed-84a91c05c9c8" />
 </div>
 
 ## 2 - Versionamento Distribuido x Centralizado
