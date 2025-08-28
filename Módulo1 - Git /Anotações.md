@@ -18,7 +18,7 @@ neste quesito. É um software de versão distribuido
 </p>
 <br>
 <div align="center">
-<img width="338" height="300" alt="image" src="https://github.com/user-attachments/assets/904170d9-e30b-4371-a7ac-d39322613c63" />
+<img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/904170d9-e30b-4371-a7ac-d39322613c63" />
 </div>
 <br>
 
