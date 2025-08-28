@@ -17,7 +17,7 @@ neste quesito. É um software de versão distribuido
 (DVCS).
 </p>
 
-<img width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/1890df14-f6ae-4ba1-a8ed-84a91c05c9c8" />
+                <img width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/1890df14-f6ae-4ba1-a8ed-84a91c05c9c8" />
 
 
 ## 2 - Versionamento Distribuido x Centralizado
