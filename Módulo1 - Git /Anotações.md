@@ -10,7 +10,7 @@ git, o Subversion, CVS, TFS, Mercurial, entre outros.
 
 ### 1.1 - O que é o git ?
 
-<p>
+<p style="background-color: blue; ">
 É um software de controle de versão. é utilizado para controlar e monitorar
 as versões e as alterações de determinado código, sendo o mais famoso 
 neste quesito. É um software de versão distribuido
