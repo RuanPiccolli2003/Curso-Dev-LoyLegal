@@ -64,7 +64,11 @@ realizado, para manter o controle entendivel e organizado.
 <div align="center">
 <img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/0895b743-e960-4db0-bc26-b03dc2b1aac3" />
 <figcaption>
-<strong>Figura 3.1</strong> - 
+<strong>Figura 3.1</strong> - A imagem ilustra os estagios do controle do repositório. Primeiro quando realizada a alteração do codigo
+o objeto de monitoramento ainda esta no chamado "Working Directory", para adicionar a mudança, é executado o comando "$ git add", o qual
+está preparando a mudança e a mesma agora encontra-se no estagio de "Stage" onde o objeto vai ser preparado para o commit. Com a alteração 
+em staging, pode-se realizar o commit do objeto, salvando as alterações. Assim que é feito o commit, o objeto é transferido para o repositório
+Local, onde será realizado o push, enviando a alteração para o repositorio remoto e mudando o projeto.
 </figcaption>
 </div>
 
