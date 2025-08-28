@@ -114,7 +114,9 @@ colaboração.
 </p>
 <div align="center">
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2195a957-ba92-4930-8a54-2c58bdbfa5b8" />
-  <figcaption>
+  <br>
+  <br>
+<figcaption>
 <strong>Figura 3.3</strong> 
 </figcaption>
 </div>
