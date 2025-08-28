@@ -10,16 +10,17 @@ git, o Subversion, CVS, TFS, Mercurial, entre outros.
 
 ### 1.1 - O que é o git ?
 
-<p style="background-color: blue; ">
+<p>
 É um software de controle de versão. é utilizado para controlar e monitorar
 as versões e as alterações de determinado código, sendo o mais famoso 
 neste quesito. É um software de versão distribuido
 (DVCS).
 </p>
-
+<br>
 <div align="center">
 <img  width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/1890df14-f6ae-4ba1-a8ed-84a91c05c9c8" />
-</div>
+</div>]
+<br>
 
 ## 2 - Versionamento Distribuido x Centralizado
 
