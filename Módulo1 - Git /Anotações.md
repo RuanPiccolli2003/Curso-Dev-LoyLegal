@@ -90,6 +90,15 @@ Merge. O merge realiza a junção da branch paralela em que
 o desenvolvedor esta trabalhando com a branch (main).
 </p>
 
+<br>
+<div align="center">
+<img width="500" height="145" alt="image" src="https://github.com/user-attachments/assets/842f2aca-37f6-4dcf-bfd5-bb2b4cbfb6e3" />
+<br>
+<br>
+<strong>Figura 3.2</strong> 
+</figcaption>
+</div>
+
 ### 3.4 - Repositórios Remotos
 
 Repositorios Remotos são versões do seu repositório da maquina local
