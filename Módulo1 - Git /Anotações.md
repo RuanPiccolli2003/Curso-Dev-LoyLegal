@@ -73,12 +73,11 @@ trabalha-se no código em linhas diferentes.
 <img width="500" height="145" alt="image" src="https://github.com/user-attachments/assets/5110491c-9375-45e7-9a93-53b58bf986e1" />
 <br>
 <br>
-<div align="start">
 <strong>Figura 3.1</strong> - Na imagem, temos a branch principal sendo a main, e logo em seguida as branches feature e bug, sendo
 estas adjascentes a main. fonte da imagem: https://blog.betrybe.com/git/git-branch/
 </figcaption>
 </div>
-</div>
+
 
 
 ### 3.3 - Merge
