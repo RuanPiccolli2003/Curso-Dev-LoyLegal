@@ -68,7 +68,7 @@ o codigo raiz, por padrão esta na main, quando criada uma branch
 trabalha-se no código em linhas diferentes.
 </p>
 
-<div class="centralizado">
+<div class="centralizar">
 <img width="874" height="225" alt="image" src="https://github.com/user-attachments/assets/5110491c-9375-45e7-9a93-53b58bf986e1" />
 </div>
 
