@@ -55,15 +55,15 @@ eles: commits, branchs, merge e repositorios remotos.</p>
 
 ### 3.1 - Commit
 
-<div align="center">
+
 <p>O commit é o comando em que, adiciona as alterações mais recentes ao código.
 Em cada commit, pode-se adicionar um comentário com detalhes sobre o commit
 e quais alterações foram realizadas. É de extrema importancia comentar cada commit
 realizado, para manter o controle entendivel e organizado.
 </p>
-</div>
+<div align="center">
 <img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/0895b743-e960-4db0-bc26-b03dc2b1aac3" />
-
+</div>
 
 ### 3.2 - Branch (Ramificação)
 <p>
