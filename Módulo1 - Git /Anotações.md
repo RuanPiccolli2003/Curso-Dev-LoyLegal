@@ -95,7 +95,7 @@ o desenvolvedor esta trabalhando com a branch (main).
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/842f2aca-37f6-4dcf-bfd5-bb2b4cbfb6e3" />
 <br>
 <br>
-<strong>Figura 3.2 - Na ilustração, um exemplo de como é executado o merge. Há primeiro o commit inicial na main, 
+<strong>Figura 3.2</strong> - Na ilustração, um exemplo de como é executado o merge. Há primeiro o commit inicial na main, 
 depois é criado uma branch e realizado uma alteração junto a outro commit, as branches vão sendo trabalhadas em paralelo
 até que, quando o commit da branch paralela se tornar uma nova feature, ou ter um progresso significativo no projeto, a
 branch será mesclada junto a main, com o merge. Fonte de Imagem: https://www.develer.com/en/blog/git-how-to-write-commits-and-why/</strong> 
