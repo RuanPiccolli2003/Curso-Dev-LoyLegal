@@ -1,3 +1,8 @@
-## Curso-Dev-LoyLegal
+## Treinamento-Dev-LoyLegal
 
-### Curso de desenvolvimento para programação da LoyLegal
+### Treinamento de desenvolvimento para programação da LoyLegal
+
+<p>Este treinamento tem como objetivo 
+disponibilizar uma trilha de aprendizado
+referente a aréa da programação.
+</p>
