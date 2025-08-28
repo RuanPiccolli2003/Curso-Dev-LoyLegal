@@ -74,7 +74,7 @@ trabalha-se no código em linhas diferentes.
 <br>
 <br>
 <figcaption>
-Figura 3.1 - Na imagem, temos a branch principal sendo a main, e logo em seguida as branches feature e bug, sendo
+<strong>Figura 3.1</strong> - Na imagem, temos a branch principal sendo a main, e logo em seguida as branches feature e bug, sendo
 estas adjascentes a main. fonte da imagem: https://blog.betrybe.com/git/git-branch/
 </figcaption>
 
