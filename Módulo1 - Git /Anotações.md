@@ -92,7 +92,7 @@ o desenvolvedor esta trabalhando com a branch (main).
 
 <br>
 <div align="center">
-<img width="500" height="145" alt="image" src="https://github.com/user-attachments/assets/842f2aca-37f6-4dcf-bfd5-bb2b4cbfb6e3" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/842f2aca-37f6-4dcf-bfd5-bb2b4cbfb6e3" />
 <br>
 <br>
 <strong>Figura 3.2</strong> 
