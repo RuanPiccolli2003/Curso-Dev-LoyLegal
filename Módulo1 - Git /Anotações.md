@@ -19,7 +19,7 @@ neste quesito. É um software de versão distribuido
 <br>
 <div align="center">
 <img  width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/1890df14-f6ae-4ba1-a8ed-84a91c05c9c8" />
-</div>]
+</div>
 <br>
 
 ## 2 - Versionamento Distribuido x Centralizado
@@ -74,6 +74,7 @@ trabalha-se no código em linhas diferentes.
 <img width="700" height="345" alt="image" src="https://github.com/user-attachments/assets/5110491c-9375-45e7-9a93-53b58bf986e1" />
 <br>
 <br>
+<figcaption>
 <strong>Figura 3.1</strong> - Na imagem, temos a branch principal sendo a main, e logo em seguida as branches feature e bug, sendo
 estas adjascentes a main. fonte da imagem: https://blog.betrybe.com/git/git-branch/
 </figcaption>
@@ -94,6 +95,7 @@ o desenvolvedor esta trabalhando com a branch (main).
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/842f2aca-37f6-4dcf-bfd5-bb2b4cbfb6e3" />
 <br>
 <br>
+<figcaption>
 <strong>Figura 3.2</strong> - Na ilustração, um exemplo de como é executado o merge. Há primeiro o commit inicial na main, 
 depois é criado uma branch e realizado uma alteração junto a outro commit, as branches vão sendo trabalhadas em paralelo
 até que, quando o commit da branch paralela se tornar uma nova feature, ou ter um progresso significativo no projeto, a
@@ -103,10 +105,13 @@ branch será mesclada junto a main, com o merge. Fonte de Imagem: https://www.de
 
 ### 3.4 - Repositórios Remotos
 
-Repositorios Remotos são versões do seu repositório da maquina local
+<p>Repositorios Remotos são versões do seu repositório da maquina local
 em um servidor. É crucial para o desenvolvimento em equipe, pois
 cada desenvolvedor deverá ter acesso a este repositorio para a 
 colaboração.
+</p>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2195a957-ba92-4930-8a54-2c58bdbfa5b8" />
+
 
 
 ## 4 - Primeiros Passos 
