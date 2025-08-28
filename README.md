@@ -15,5 +15,5 @@ as anotações em formato Markdown.
 O repositório é publico para 
 compartilhar descobertas e 
 conhecimentos adquiridos anteriormente
-ou com o treinamento.
+e durante treinamento.
 </p>
