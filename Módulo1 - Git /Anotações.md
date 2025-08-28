@@ -69,11 +69,12 @@ trabalha-se no código em linhas diferentes.
 </p>
 
 <div align="center">
+
+<img width="500" height="145" alt="image" src="https://github.com/user-attachments/assets/5110491c-9375-45e7-9a93-53b58bf986e1" />
+<br>
 <figcaption>
 Figura 2.1 - Na imagem, temos a branch principal sendo a main, e 
 </figcaption>
-<br>
-<img width="500" height="145" alt="image" src="https://github.com/user-attachments/assets/5110491c-9375-45e7-9a93-53b58bf986e1" />
 
 </div>
 
