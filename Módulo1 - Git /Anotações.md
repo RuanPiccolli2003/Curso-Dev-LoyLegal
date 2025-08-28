@@ -119,7 +119,7 @@ colaboração.
   <br>
   <br>
 <figcaption>
-<strong>Figura 3.3</strong> 
+<strong>Figura 3.3</strong> - Para a colaboração dos repositorios do git, os desenvolvedores parceiros realizarem alterações no repositório, os mesmos devem possuir o acesso ao repositorio remoto do responsavel. 
 </figcaption>
 </div>
 </div>
