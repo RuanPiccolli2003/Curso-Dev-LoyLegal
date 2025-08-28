@@ -64,6 +64,7 @@ realizado, para manter o controle entendivel e organizado.
 <div align="center">
 <img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/0895b743-e960-4db0-bc26-b03dc2b1aac3" />
 <br>
+<br>
 <figcaption>
 <strong>Figura 3.1</strong> - A imagem ilustra os estagios do controle do repositório. Primeiro quando realizada a alteração do codigo
 o objeto de monitoramento ainda esta no chamado "Working Directory", para adicionar a mudança, é executado o comando "$ git add", o qual
