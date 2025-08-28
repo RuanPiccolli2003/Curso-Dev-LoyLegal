@@ -2,6 +2,8 @@
 
 ### Treinamento de desenvolvimento para programação da LoyLegal
 
+#### Premissa
+
 <p>Este treinamento tem como objetivo 
 disponibilizar uma trilha de aprendizado
 referente a aréa da programação.
