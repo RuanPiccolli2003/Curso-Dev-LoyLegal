@@ -60,6 +60,8 @@ e quais alterações foram realizadas. É de extrema importancia comentar cada c
 realizado, para manter o controle entendivel e organizado.
 </p>
 
+<img width="602" height="564" alt="image" src="https://github.com/user-attachments/assets/0895b743-e960-4db0-bc26-b03dc2b1aac3" />
+
 
 ### 3.2 - Branch (Ramificação)
 <p>
@@ -77,7 +79,7 @@ trabalha-se no código em linhas diferentes.
 <br>
 <br>
 <figcaption>
-<strong>Figura 3.1</strong> - Na imagem, temos a branch principal sendo a main, e logo em seguida as branches feature e bug, sendo
+<strong>Figura 3.2</strong> - Na imagem, temos a branch principal sendo a main, e logo em seguida as branches feature e bug, sendo
 estas adjascentes a main. fonte da imagem: https://blog.betrybe.com/git/git-branch/
 </figcaption>
 </div>
@@ -98,7 +100,7 @@ o desenvolvedor esta trabalhando com a branch (main).
 <br>
 <br>
 <figcaption>
-<strong>Figura 3.2</strong> - Na ilustração, um exemplo de como é executado o merge. Há primeiro o commit/push inicial na main, 
+<strong>Figura 3.3</strong> - Na ilustração, um exemplo de como é executado o merge. Há primeiro o commit/push inicial na main, 
 depois cria-se uma nova branch e é feito uma alteração junto a outro commit/push, as branches vão sendo trabalhadas em paralelo
 até que, quando o commit da branch paralela se tornar uma nova feature, ou ter um progresso significativo no projeto, a
 branch será mesclada junto a main, com o merge. fonte da imagem: https://www.develer.com/en/blog/git-how-to-write-commits-and-why/</strong> 
@@ -118,7 +120,7 @@ colaboração.
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2195a957-ba92-4930-8a54-2c58bdbfa5b8" />
 <br>
 <figcaption>
-<strong>Figura 3.3</strong> - Para a colaboração dos repositorios do git, os desenvolvedores parceiros realizarem alterações no repositório, os mesmos devem possuir o acesso ao repositorio remoto do responsavel, Ex: Github, Gitlab, Bitbucket entre outros. fonte da imagem: https://blog.betrybe.com/git/git-push/
+<strong>Figura 3.4</strong> - Para a colaboração dos repositorios do git, os desenvolvedores parceiros realizarem alterações no repositório, os mesmos devem possuir o acesso ao repositorio remoto do responsavel, Ex: Github, Gitlab, Bitbucket entre outros. fonte da imagem: https://blog.betrybe.com/git/git-push/
 </figcaption>
 </div>
 </div>
