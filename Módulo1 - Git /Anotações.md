@@ -128,19 +128,19 @@ colaboração.
 
 ### 4.1 Comandos (Trabalhando Sozinho)
 
-#### 4.1.1 - git init
+#### 4.1.1 - $ git init
 <p>Inicia a rastreabilidade e o controle do código.</p>
 
-#### 4.1.2 - git clone
+#### 4.1.2 - $ git clone
 <p>Faz um cópia de qualquer repositorio existente para a sua maquina local.</p>
 
-#### 4.1.3 - git add
+#### 4.1.3 - $ git add
 <p>Adiciona as mudanças realizadads para a area de "Staging"</p>
 
-#### 4.1.4 - git commit
+#### 4.1.4 - $ git commit
 <p>Salva as alterações realizadas</p>
 
-#### 4.1.5 - git log
+#### 4.1.5 - $ git log
 <p>Histórico de mudanças realizadas</p>
 
 
@@ -148,22 +148,22 @@ colaboração.
 
 ### 5.1 - Comandos (Em equipe)
 
-#### 5.1.1 - git branch
+#### 5.1.1 - $ git branch
 <p>Cria ou lista as branhes existentes></p>
 
-#### 5.1.2 - git checkout / git switch
+#### 5.1.2 - $ git checkout / git switch
 <p>Realiza a troca para outra branch</p>
 
-#### 5.1.3 - git merge
+#### 5.1.3 - $ git merge
 <p>faz a união das branches</p>
 
-#### 5.1.4 - git pull
+#### 5.1.4 - $ git pull
 <p>traz as atualizações do repositorio remoto</p>
 
-#### 5.1.5 - git push
+#### 5.1.5 - $ git push
 <p>Envia as alterações para o repositório remoto</p>
 
-#### 5.1.6 - git remote
+#### 5.1.6 - $ git remote
 <p>Gerencia as conexões</p>
 
 ## 6 - Boas praticas
@@ -175,36 +175,36 @@ colaboração.
 
 ### 6.2 - Comandos (Boas praticas)
 
-#### 6.2.1 - git diff
+#### 6.2.1 - $ git diff
 <p>visualiza as diferenças entre os estados dos arquivos
 antes de realizar o commit</p>
 
-#### 6.2.2 - git stash
+#### 6.2.2 - $ git stash
 <p>Guarda as alterações de forma temporaria</p>
 
-#### 6.2.3 - git reset
+#### 6.2.3 - $ git reset
 <p> Desfaz as alterações realizadas no repositório local </p>
   
-#### 6.2.4 - git revert
+#### 6.2.4 - $ git revert
 <p>Mesma função do reset, porém com este comando o histórico é mantido</p>
 
-#### 6.2.5 - git cherry-pick
+#### 6.2.5 - $ git cherry-pick
 <p>realiza o commit de forma espeficia</p>
 
 ## 7 - Casos mais Avançados
 
 ### 7.1 - Comandos (Avançados)
 
-#### 7.1.1 - git cherry-pick
+#### 7.1.1 - $ git cherry-pick
 <p>Realiza o commit de uma forma especifica</p>
 
-#### 7.1.2 - git apply
+#### 7.1.2 - $ git apply
 <p>Aplica o patch</p>
 
-#### 7.1.3 - git rebase
+#### 7.1.3 - $ git rebase
 <p>Reescreve o histórico</p>
 
-#### 7.1.4 - git tag
+#### 7.1.4 - $ git tag
 <p>Marca versões importantes</p>
 
 
