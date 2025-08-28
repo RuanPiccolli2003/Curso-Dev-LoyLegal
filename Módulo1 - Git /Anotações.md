@@ -101,7 +101,7 @@ o desenvolvedor esta trabalhando com a branch (main).
 <strong>Figura 3.2</strong> - Na ilustração, um exemplo de como é executado o merge. Há primeiro o commit inicial na main, 
 depois é criado uma branch e realizado uma alteração junto a outro commit, as branches vão sendo trabalhadas em paralelo
 até que, quando o commit da branch paralela se tornar uma nova feature, ou ter um progresso significativo no projeto, a
-branch será mesclada junto a main, com o merge. Fonte de Imagem: https://www.develer.com/en/blog/git-how-to-write-commits-and-why/</strong> 
+branch será mesclada junto a main, com o merge. fonte da imagem: https://www.develer.com/en/blog/git-how-to-write-commits-and-why/</strong> 
 </figcaption>
 </div>
 
@@ -118,7 +118,7 @@ colaboração.
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2195a957-ba92-4930-8a54-2c58bdbfa5b8" />
 <br>
 <figcaption>
-<strong>Figura 3.3</strong> - Para a colaboração dos repositorios do git, os desenvolvedores parceiros realizarem alterações no repositório, os mesmos devem possuir o acesso ao repositorio remoto do responsavel, Ex: Github, Gitlab, Bitbucket entre outros. Fonte da Imagem: https://blog.betrybe.com/git/git-push/
+<strong>Figura 3.3</strong> - Para a colaboração dos repositorios do git, os desenvolvedores parceiros realizarem alterações no repositório, os mesmos devem possuir o acesso ao repositorio remoto do responsavel, Ex: Github, Gitlab, Bitbucket entre outros. fonte da imagem: https://blog.betrybe.com/git/git-push/
 </figcaption>
 </div>
 </div>
