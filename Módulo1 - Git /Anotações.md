@@ -60,7 +60,7 @@ e quais alterações foram realizadas. É de extrema importancia comentar cada c
 realizado, para manter o controle entendivel e organizado.
 </p>
 
-<img width="700" height="345" alt="image" src="https://github.com/user-attachments/assets/0895b743-e960-4db0-bc26-b03dc2b1aac3" />
+<img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/0895b743-e960-4db0-bc26-b03dc2b1aac3" />
 
 
 ### 3.2 - Branch (Ramificação)
