@@ -17,9 +17,9 @@ neste quesito. É um software de versão distribuido
 (DVCS).
 </p>
 <br>
+<br>
 <div align="center">
 <img width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/ce86bacd-ef07-4e88-aa20-93405417fbca" />
-
 </div>
 <br>
 
@@ -63,6 +63,9 @@ realizado, para manter o controle entendivel e organizado.
 </p>
 <div align="center">
 <img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/0895b743-e960-4db0-bc26-b03dc2b1aac3" />
+<figcaption>
+<strong>Figura 3.1</strong> - 
+</figcaption>
 </div>
 
 ### 3.2 - Branch (Ramificação)
