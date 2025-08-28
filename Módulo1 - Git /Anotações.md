@@ -70,7 +70,7 @@ trabalha-se no código em linhas diferentes.
 
 <br>
 <div align="center">
-<img width="500" height="145" alt="image" src="https://github.com/user-attachments/assets/5110491c-9375-45e7-9a93-53b58bf986e1" />
+<img width="700" height="345" alt="image" src="https://github.com/user-attachments/assets/5110491c-9375-45e7-9a93-53b58bf986e1" />
 <br>
 <br>
 <strong>Figura 3.1</strong> - Na imagem, temos a branch principal sendo a main, e logo em seguida as branches feature e bug, sendo
@@ -96,7 +96,7 @@ o desenvolvedor esta trabalhando com a branch (main).
 <br>
 <br>
 <strong>Figura 3.2 - Na ilustração, um exemplo de como é executado o merge. Há primeiro o commit inicial na main, 
-depois é criada uma branch e realizada uma alteração e feito outro commit, as branches vão sendo trabalhadas em paralelo
+depois é criado uma branch e realizado uma alteração junto a outro commit, as branches vão sendo trabalhadas em paralelo
 até que, quando o commit da branch paralela se tornar uma nova feature, ou ter um progresso significativo no projeto, a
 branch será mesclada junto a main, com o merge. Fonte de Imagem: https://www.develer.com/en/blog/git-how-to-write-commits-and-why/</strong> 
 </figcaption>
