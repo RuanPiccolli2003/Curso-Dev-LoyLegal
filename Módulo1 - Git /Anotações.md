@@ -83,7 +83,7 @@ estas adjascentes a main. fonte da imagem: https://blog.betrybe.com/git/git-bran
 ### 3.3 - Merge
 
 <p>
-Quando utilizamos com as Branchs, cada desenvolvedor está
+Quando utilizamos as Branchs, cada desenvolvedor está
 trabalhando em alterações de um mesmo código. Agora, caso
 a alteração seja de fato implementada, deve-se realizar o 
 Merge. O merge realiza a junção da branch paralela em que 
